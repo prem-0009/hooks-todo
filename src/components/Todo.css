@@ -1,0 +1,8 @@
+.strikeThrough {
+    text-decoration: line-through;
+    color: blueviolet;
+}
+
+body{
+    background-color: turquoise;
+}
